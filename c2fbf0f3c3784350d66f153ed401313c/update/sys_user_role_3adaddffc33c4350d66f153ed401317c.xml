@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>admin user for wishlist</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>r72oBFrq0QpQgGh7t5asETqIJCfHRY+GJaov2o3eyks=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2043441_wish_l_0.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 18:16:23</sys_created_on>
+        <sys_id>3adaddffc33c4350d66f153ed401317c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2043441_wish_l_0.admin</sys_name>
+        <sys_package display_value="Wish List" source="x_2043441_wish_l_0">c2fbf0f3c3784350d66f153ed401313c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">c2fbf0f3c3784350d66f153ed401313c</sys_scope>
+        <sys_update_name>sys_user_role_3adaddffc33c4350d66f153ed401317c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 18:16:23</sys_updated_on>
+    </sys_user_role>
+</record_update>
